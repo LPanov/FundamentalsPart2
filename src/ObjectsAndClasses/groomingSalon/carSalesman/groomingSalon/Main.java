@@ -1,4 +1,4 @@
-package groomingSalon;
+package ObjectsAndClasses.groomingSalon.carSalesman.groomingSalon;
 
 public class Main {
 

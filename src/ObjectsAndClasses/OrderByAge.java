@@ -1,3 +1,5 @@
+package ObjectsAndClasses;
+
 import java.util.*;
 
 public class OrderByAge {
@@ -33,7 +35,7 @@ public class OrderByAge {
 
             s = sc.nextLine();
         }
-        //Collections.sort(orders, Comparator.comparing(OrderByAge::getAge));
+        //Collections.sort(orders, Comparator.comparing(ObjectsAndClasses.OrderByAge::getAge));
         orders.sort(Comparator.comparing(OrderByAge::getAge));
         for (OrderByAge order : orders) {
             System.out.println(order.toString());

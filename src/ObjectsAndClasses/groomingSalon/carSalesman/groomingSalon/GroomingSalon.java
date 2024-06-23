@@ -1,4 +1,4 @@
-package groomingSalon;
+package ObjectsAndClasses.groomingSalon.carSalesman.groomingSalon;
 
 import java.util.ArrayList;
 import java.util.List;

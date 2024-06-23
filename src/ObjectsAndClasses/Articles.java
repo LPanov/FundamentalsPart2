@@ -1,3 +1,5 @@
+package ObjectsAndClasses;
+
 import java.util.Scanner;
 
 public class Articles {
